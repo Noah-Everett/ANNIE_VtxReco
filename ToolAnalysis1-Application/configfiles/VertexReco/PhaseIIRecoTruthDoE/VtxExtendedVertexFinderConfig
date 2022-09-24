@@ -1,0 +1,5 @@
+# VtxPointPositionFinder config file
+
+verbosity 4
+UseTrueVertexAsSeed 1
+FitAllOnGridSeed 0

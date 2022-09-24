@@ -1,0 +1,6 @@
+#ignore gedit backup files:
+*~
+Analyse
+ToolDAQ
+*.o
+*.root
